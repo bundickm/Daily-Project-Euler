@@ -5,3 +5,4 @@ One code challenge a day from Project Euler
 02. [Even Fibonacci Numbers](https://projecteuler.net/problem=2)
 03. [Largest Prime Factor](https://projecteuler.net/problem=3)
 04. [Largest Palindrome Product](https://projecteuler.net/problem=4)
+05. [Smallest Multiple](https://projecteuler.net/problem=5)
