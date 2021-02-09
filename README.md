@@ -6,3 +6,4 @@ One code challenge a day from Project Euler
 03. [Largest Prime Factor](https://projecteuler.net/problem=3)
 04. [Largest Palindrome Product](https://projecteuler.net/problem=4)
 05. [Smallest Multiple](https://projecteuler.net/problem=5)
+06. [Sum Square Difference](https://projecteuler.net/problem=6)
