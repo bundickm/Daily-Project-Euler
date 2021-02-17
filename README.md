@@ -14,3 +14,4 @@ One code challenge a day from Project Euler
 11. [Largest Product in a Grid](https://projecteuler.net/problem=11)
 12. [Highly Divisible Triangle Numbers](https://projecteuler.net/problem=12)
 13. [Large Sum](https://projecteuler.net/problem=13)
+14. [Largest Collatz Sequence](https://projecteuler.net/problem=14)
