@@ -16,3 +16,4 @@ One code challenge a day from Project Euler
 13. [Large Sum](https://projecteuler.net/problem=13)
 14. [Largest Collatz Sequence](https://projecteuler.net/problem=14)
 15. [Lattice Paths](https://projecteuler.net/problem=15)
+16. [Power Digit Sum](https://projecteuler.net/problem=16)
