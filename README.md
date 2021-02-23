@@ -19,4 +19,4 @@ One code challenge a day from Project Euler
 16. [Power Digit Sum](https://projecteuler.net/problem=16)
 17. [Number Letter Counts](https://projecteuler.net/problem=17)
 18. [Maximum Path Sum 1](https://projecteuler.net/problem=18)
-19. 
+19. [Counting Sundays](https://projecteuler.net/problem=19)
