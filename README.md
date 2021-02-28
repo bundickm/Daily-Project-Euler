@@ -24,3 +24,4 @@ One code challenge a day from Project Euler
 21. [Amicable Numbers](https://projecteuler.net/problem=21)
 22. [Names Scores](https://projecteuler.net/problem=22)
 23. [Non-Abundant Sums](https://projecteuler.net/problem=23)
+24. [Lexographic Permutations](https://projecteuler.net/problem=24)
