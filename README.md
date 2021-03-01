@@ -25,3 +25,5 @@ One code challenge a day from Project Euler
 22. [Names Scores](https://projecteuler.net/problem=22)
 23. [Non-Abundant Sums](https://projecteuler.net/problem=23)
 24. [Lexographic Permutations](https://projecteuler.net/problem=24)
+25. [1000 Digit Fibonacci Number](https://projecteuler.net/problem=25)
+26. [Reciprocal Cycles](https://projecteuler.net/problem=26)
