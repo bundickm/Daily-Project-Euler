@@ -29,4 +29,4 @@ One code challenge a day from Project Euler
 26. [Reciprocal Cycles](https://projecteuler.net/problem=26)
 27. [Quadratic Primes](https://projecteuler.net/problem=27)
 28. [Number Spiral Diagonals](https://projecteuler.net/problem=28)
-29. [Quadratic Primes](https://projecteuler.net/problem=29)
+29. [Distinct Powers](https://projecteuler.net/problem=29)
