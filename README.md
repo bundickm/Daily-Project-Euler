@@ -27,3 +27,6 @@ One code challenge a day from Project Euler
 24. [Lexographic Permutations](https://projecteuler.net/problem=24)
 25. [1000 Digit Fibonacci Number](https://projecteuler.net/problem=25)
 26. [Reciprocal Cycles](https://projecteuler.net/problem=26)
+27. [Quadratic Primes](https://projecteuler.net/problem=27)
+28. [Number Spiral Diagonals](https://projecteuler.net/problem=28)
+29. [Quadratic Primes](https://projecteuler.net/problem=29)
