@@ -30,3 +30,4 @@ One code challenge a day from Project Euler
 27. [Quadratic Primes](https://projecteuler.net/problem=27)
 28. [Number Spiral Diagonals](https://projecteuler.net/problem=28)
 29. [Distinct Powers](https://projecteuler.net/problem=29)
+30. [Digit Fifth Powers](https://projecteuler.net/problem=30)
