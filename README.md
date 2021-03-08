@@ -33,3 +33,4 @@ One code challenge a day from Project Euler
 30. [Digit Fifth Powers](https://projecteuler.net/problem=30)
 31. [Coin Sums](https://projecteuler.net/problem=31)
 32. [Pandigital Products](https://projecteuler.net/problem=32)
+33. [Digit Cancelling Fractions](https://projecteuler.net/problem=33)
